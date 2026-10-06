@@ -1,4 +1,5 @@
 hello world
 xin chao A
 xin chao B
+xin chao C
 
